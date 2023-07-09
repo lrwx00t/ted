@@ -1,6 +1,12 @@
 # ted
 Tiny Ed implemented in Rust
 
+## Installation
+
+```
+❯ cargo install --git https://github.com/lrwx00t/ted.git
+```
+
 ## Usage Example
 
 ```bash
